@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Mon PortFolio"
-baseurl = "http://example.org/"
+baseurl = ""
 theme = "prologue"
 
 [params]
