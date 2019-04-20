@@ -1,0 +1,97 @@
+languageCode = "en-us"
+title = "Mon PortFolio"
+baseurl = "http://example.org/"
+theme = "prologue"
+
+[params]
+  name = "Mélina Pautrat"
+  description = "Étudiante en Informatique"
+  copyright = "Mélina Pautrat."
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "melina.pautrat@gmail.com"
+
+
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Visuel Novembre Embarque sur Cézeaux"
+  alt = ""
+  source = "img/NovembreCom.png"
+  url = "#"
+
+[[params.portfolio1]]
+  title = "Visuel Mars Embarque sur Cézeaux"
+  alt = ""
+  source = "img/MarsCom.png"
+  url = "#"
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Flyer Projet d'Anglais (recto)"
+  alt = ""
+  source = "img/englishBooklet.png"
+  url = "#"
+
+[[params.portfolio2]]
+  title = "Flyer Projet d'Anglais (verso)"
+  alt = ""
+  source = "img/englishBooklet2.png"
+  url = "#"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Visuel Octobre Embarque sur Cézeaux"
+  alt = ""
+  url = "#"
+
+[[params.portfolio3]]
+  title = "Visuel Avril Embarque sur Cézeaux"
+  alt = ""
+  source = "img/AvrilCom.png"
+  url = "#"
+
+  #Portfolio column 4 
+
+  [[params.portfolio4]]
+  title = "Conseil Participatif des jeunes"
+  alt = ""
+  source = "img/cpg.png"
+  url = "https://www.lamontagne.fr/aurillac/politique/2015/11/07/le-conseil-participatif-des-jeunes-se-reunira-tous-les-mois_11654027.html#refresh"
+
+  [[params.portfolio5]]
+  title = "Réalisation de Sismikazot, festival 10ème Art"
+  alt = ""
+  source = "img/jumpingFox.png"
+  url = "http://tank-popek.com/projects/jumping-fox/"
+
+   [[params.portfolio6]]
+  title = "Réalisation de Tank & Popek + Pub, festival 10ème Art"
+  alt = ""
+  source = "img/Kway.png"
+  url = "http://www.sismikazot.com/galleries/festival-10eme-art-aurillac-15/"
