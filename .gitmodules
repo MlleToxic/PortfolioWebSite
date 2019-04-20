@@ -1,0 +1,3 @@
+[submodule "theme/prologue"]
+	path = theme/prologue
+	url = https://github.com/sethmacleod/prologue
