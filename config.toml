@@ -68,7 +68,8 @@ theme = "prologue"
 [[params.portfolio3]]
   title = "Visuel Octobre Embarque sur Cézeaux"
   alt = ""
-  url = "img/AfficheOctobreESC2.png"
+  source="img/AfficheOctobreESC2.png"
+  url = "#"
 
 [[params.portfolio3]]
   title = "Visuel Avril Embarque sur Cézeaux"
