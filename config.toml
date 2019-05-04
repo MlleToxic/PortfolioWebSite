@@ -8,25 +8,25 @@ theme = "prologue"
   description = "Étudiante en Informatique"
   copyright = "Mélina Pautrat."
 
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
+#[[params.social]]
+#  medium = "twitter"
+#  icon = "twitter"
+#  link = "#"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
+#[[params.social]]
+#  medium = "facebook"
+#  icon = "facebook"
+#  link = "#"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/MlleToxic"
 
-[[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
+#[[params.social]]
+ # medium = "dribbble"
+#  icon = "dribbble"
+#  link = "#"
 
 [[params.social]]
   medium = "email"
