@@ -31,7 +31,7 @@ theme = "prologue"
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "melina.pautrat@gmail.com"
+  link = "mailto?:melina.pautrat@gmail.com"
 
 
 
