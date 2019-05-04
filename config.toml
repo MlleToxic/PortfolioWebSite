@@ -68,7 +68,7 @@ theme = "prologue"
 [[params.portfolio3]]
   title = "Visuel Octobre Embarque sur Cézeaux"
   alt = ""
-  url = "#"
+  url = "img/AfficheOctobreESC2.png"
 
 [[params.portfolio3]]
   title = "Visuel Avril Embarque sur Cézeaux"
@@ -95,3 +95,24 @@ theme = "prologue"
   alt = ""
   source = "img/Kway.png"
   url = "http://www.sismikazot.com/galleries/festival-10eme-art-aurillac-15/"
+
+  #Portfolio column 5 
+
+  [[params.portfolio7]]
+  title = "Foire de Cocentaina"
+  alt = ""
+  source = "img/Foire.jpg"
+  url = "#"
+
+
+[[params.portfolio8]]
+  title = "Atelier à l'école de Vercingétorix"
+  alt = ""
+  source = "img/ecole.jpeg"
+  url = "#"
+
+  [[params.portfolio9]]
+  title = "Stand sur le festival de court-métrages de Clermont-Ferrand"
+  alt = ""
+  source = "img/CourtMet.png"
+  url = "#"

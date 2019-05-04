@@ -210,6 +210,41 @@
 
 								Enfin, durant la semaine du 31 janvier au 8 février, nous avons pu tenir un stand d'activité sur le festival du court-métrage de Clermont-Ferrand. Durant cette semaine là, il nous a été permis de faire utiliser nos robots à de nombreux visiteurs de tout âge confondu. 
 
+								<div class="row">
+								 <div class="4u 12u$(mobile)">
+				                  {{ range .Site.Params.portfolio7 }} 
+				                  <article class="item">
+				                    <a href="{{ .url }}" class="image fit"><img src="{{ .source }}" alt="{{ .alt }}" /></a>
+				                    <header>
+				                      <h3>{{ .title }}</h3>
+				                    </header>
+				                  </article>
+				                  {{ end }}
+				                </div>
+
+				                <div class="4u 12u$(mobile)">
+				                  {{ range .Site.Params.portfolio8 }} 
+				                  <article class="item">
+				                    <a href="{{ .url }}" class="image fit"><img src="{{ .source }}" alt="{{ .alt }}" /></a>
+				                    <header>
+				                      <h3>{{ .title }}</h3>
+				                    </header>
+				                  </article>
+				                  {{ end }}
+				                </div>
+
+				                <div class="4u 12u$(mobile)">
+				                  {{ range .Site.Params.portfolio9 }} 
+				                  <article class="item">
+				                    <a href="{{ .url }}" class="image fit"><img src="{{ .source }}" alt="{{ .alt }}" /></a>
+				                    <header>
+				                      <h3>{{ .title }}</h3>
+				                    </header>
+				                  </article>
+				                  {{ end }}
+				                </div>
+				            </div>
+
 							</p>
 					</section>
 
